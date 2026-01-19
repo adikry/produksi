@@ -1,6 +1,6 @@
 {
   "name": "Produksi Bungkusan",
-  "short_name": "Pengiriman",
+  "short_name": "Produksi",
   "start_url": "/produksi/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
